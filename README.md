@@ -45,14 +45,14 @@ Run files in the following order:
 1. *create_tables.py*
 
     ```python
-    create_tables.py
+    python create_tables.py
     ```
     
 2. *test.ipnyb* (Run all the cells and check if all tables are appropriately created with correct columns)
 3. *etl.py*
 
     ```python
-    etl.py
+    python etl.py
     ```
     
 
